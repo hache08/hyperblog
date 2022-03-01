@@ -21,7 +21,7 @@ body
 
 #cabecera #logo
 {
-    width: 20px;
+    width: 50px;
     vertical-align: middle;
 }
 
@@ -48,5 +48,6 @@ body
 }
 #post
 {
+    background: white;
     padding: 1em;
 }
